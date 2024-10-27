@@ -1,5 +1,5 @@
-import Login from "./components/auth/login";
-import Signup from "./components/auth/signup";
+import Login from "./components/auth/Login";
+import Signup from "./components/auth/Signup";
 import Home from "./components/Home";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
